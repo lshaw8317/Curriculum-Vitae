@@ -46,7 +46,7 @@ experience in embedded systems cybersecurity and software development.
     <td><img src="https://raw.githubusercontent.com/lshaw8317/Curriculum-Vitae/main/Edinburgh_logo.jpg" width="50"></td>
     <td>
       <h3>University of Edinburgh (2019–2020)</h3>
-      <i>MSc Computational Applied Mathematics, with Distinction*. Average: **87.4%**</i>
+      <i>MSc Computational Applied Mathematics, with Distinction*.</i> Average: **87.4%**.
     </td>
   </tr>
 </table>
@@ -56,7 +56,7 @@ experience in embedded systems cybersecurity and software development.
     <td><img src="https://raw.githubusercontent.com/lshaw8317/Curriculum-Vitae/main/Princeton_logo.jpg" width="50"></td>
     <td>
       <h3>Princeton University (2015-2019)</h3>
-      <i>*BSc Physics cum laude*. Certificate in French Language and Culture. GPA: **3.84/4.0**\</i>
+      <i>BSc Physics cum laude. Certificate in French Language and Culture.</i> GPA: **3.84/4.0**.
     </td>
   </tr>
 </table>
