@@ -56,7 +56,7 @@ experience in embedded systems cybersecurity and software development.
     <td><img src="https://raw.githubusercontent.com/lshaw8317/Curriculum-Vitae/main/Princeton_logo.jpg" width="50"></td>
     <td>
       <h3>Princeton University (2015-2019)</h3>
-      <i>BSc Physics cum laude. Certificate in French Language and Culture.</i> GPA: <b>3.84/4.0</b>b>.
+      <i>BSc Physics cum laude. Certificate in French Language and Culture.</i> GPA: <b>3.84/4.0</b>.
     </td>
   </tr>
 </table>
