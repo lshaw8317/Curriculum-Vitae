@@ -24,12 +24,12 @@ experience in embedded systems cybersecurity and software development.
   **Category**                         **Details**
   ------------------------------------ ----------------------------------
   **Languages**                        English (Native), French (B1),
-                                       Spanish (C1), Valencian (B1)
+                                       Spanish (C1), Valencian (B1)\
 
-  **Programming**                      Python, C++, C, LaTeX, Linux
+  **Programming**                      Python, C++, C, LaTeX, Linux\
 
   **Tech**                             Keras, TensorFlow, PyTorch, Git,
-                                       Computer Vision
+                                       Computer Vision\
 
   **Maths**                            Bayesian Statistics, Machine/Deep
                                        Learning, Linear Algebra, Inverse
