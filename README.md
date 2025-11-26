@@ -20,22 +20,12 @@ experience in embedded systems cybersecurity and software development.
 
 ## **Skills**
 
-  -----------------------------------------------------------------------
-  **Category**                         **Details**
-  ------------------------------------ ----------------------------------
-  **Languages**                        English (Native), French (B1),
-                                       Spanish (C1), Valencian (B1)\
-
-  **Programming**                      Python, C++, C, LaTeX, Linux\
-
-  **Tech**                             Keras, TensorFlow, PyTorch, Git,
-                                       Computer Vision\
-
-  **Maths**                            Bayesian Statistics, Machine/Deep
-                                       Learning, Linear Algebra, Inverse
-                                       Problems, Generative Diffusion
-                                       Models
-  -----------------------------------------------------------------------
+| **Category** | **Details** |
+|--------------|-------------|
+| **Languages** | English (Native)<br>French (B1)<br>Spanish (C1)<br>Valencian (B1) |
+| **Programming** | Python, C++, C, LaTeX, Linux |
+| **Tech** | Keras<br>TensorFlow<br>PyTorch<br>Git<br>Computer Vision |
+| **Maths** | Bayesian Statistics<br>Machine / Deep Learning<br>Linear Algebra<br>Inverse Problems<br>Generative Diffusion Models |
 
 ------------------------------------------------------------------------
 
