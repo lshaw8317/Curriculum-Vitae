@@ -1,8 +1,9 @@
 # **Luke Shaw**
 
 **UK citizen, Full Driving Licence** 
-Tel: +34 711 082 913  Email:
-lshaw8317@gmail.com\
+
+Tel: +34 711 082 913  
+Email: lshaw8317@gmail.com\
 LinkedIn: www.linkedin.com/in/lshaw8317
 
 ------------------------------------------------------------------------
