@@ -34,7 +34,7 @@ experience in embedded systems cybersecurity and software development.
 ### **Universitat Jaume I (2021--2024)**
 
 *PhD Applied Mathematics, sobresaliente, cum laude*\
-![UJI Logo](https://github.com/lshaw8317/cv/blob/main/UJI_logo.png?raw=1)
+![UJI Logo](https://github.com/lshaw8317/Curriculum-Vitae/blob/main/UJI_logo.jpg?raw=1)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ experience in embedded systems cybersecurity and software development.
 
 *MSc Computational Applied Mathematics, with Distinction*\
 Average: **87.4%**\
-![Edinburgh Logo]((https://github.com/lshaw8317/cv/blob/main/Edinburgh_logo.png?raw=1))
+![Edinburgh Logo]((https://github.com/lshaw8317/Curriculum-Vitae/blob/main/Edinburgh_logo.jpg?raw=1))
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Average: **87.4%**\
 *BSc Physics cum laude*\
 Certificate in French Language and Culture\
 GPA: **3.84/4.0**\
-![Princeton Logo]((https://github.com/lshaw8317/cv/blob/main/Princeton_logo.png?raw=1))
+![Princeton Logo]((https://github.com/lshaw8317/Curriculum-Vitae/blob/main/Princeton_logo.jpg?raw=1))
 
 ------------------------------------------------------------------------
 
